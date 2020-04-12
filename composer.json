@@ -1,0 +1,14 @@
+{
+    "name": "chaem/composer-autoload",
+    "description": "projet quete composer",
+    "authors": [
+        {
+            "name": "chaem16028",
+            "email": "chaem16028@gmail.com"
+        }
+    ],
+    "autoload": {"psr-4": {
+        "App\\": "App"
+    }},
+    "require": {}
+}
